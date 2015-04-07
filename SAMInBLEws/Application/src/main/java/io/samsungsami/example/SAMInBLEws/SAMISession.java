@@ -32,7 +32,7 @@ public class SAMISession {
     private static final String TAG = SAMISession.class.getSimpleName();
 
     public static final String SAMI_AUTH_BASE_URL = "https://accounts.samsungsami.io";
-    public static final String CLIENT_ID = "b120963174a84eff897770624f829ee5";
+    public static final String CLIENT_ID = "YOUR CLIENT APP ID";
     public static final String REDIRECT_URL = "android-app://redirect";
     public static final String SAMI_REST_URL = "https://api.samsungsami.io/v1.1";
     public static final String SAMI_WEBSOCKET_URL = "wss://api.samsungsami.io/v1.1/websocket?ack=true";
