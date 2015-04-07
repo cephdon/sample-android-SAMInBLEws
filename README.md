@@ -9,7 +9,7 @@ The blog post [Stream Data from Bluetooth Low Energy Devices to SAMI in Real Tim
 Demo
 -------------
 
-The sample app have the same funcationality as [SAMInBLE](https://github.com/samsungsamiio/sample-android-SAMInBLE). Check out Demo section there.
+The sample app has the same funcationality as [SAMInBLE](https://github.com/samsungsamiio/sample-android-SAMInBLE). Check out Demo section there.
 
 Prerequisites
 -------------
