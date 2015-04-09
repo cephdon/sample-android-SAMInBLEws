@@ -4,7 +4,8 @@ The sample Android app demonstrates how to stream data from Bluetooth Low Energy
 Introduction
 -------------
 
-The blog post [Stream Data from Bluetooth Low Energy Devices to SAMI in Real Time](https://blog-staging.samsungsami.io/mobile/development/2015/04/07/stream-data-from-bluetooth-low-energy-devices-to-sami-in-realtime.html) at http://blog.samsungsami.io/ describes what the app does and how it is implemented.
+The blog post [SAMI and BLE Meet WebSockets
+](https://blog.samsungsami.io/mobile/development/2015/04/09/sami-and-ble-meet-websockets.html) at http://blog.samsungsami.io/ describes what the app does and how it is implemented.
 
 Demo
 -------------
